@@ -1,5 +1,5 @@
 #! /bin/bash -xve
-#written by ekieki
+#Written by eki1eki1
 
 exec 2> /tmp/setup.log
 
